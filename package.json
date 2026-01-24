@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/alessiomancinelli/programacion-practica-seo#readme",
   "dependencies": {
-    "axios": "^0.22.0",
+    "axios": "^0.30.2",
     "cheerio": "^1.0.0-rc.10",
     "jsdom": "^17.0.0"
   }
